@@ -1,0 +1,65 @@
+[
+    {
+      "id": 1,
+      "question": "What is Node.js?",
+      "options": ["A runtime environment", "A programming language", "A database", "A web server framework"],
+      "correctAnswer": "A runtime environment"
+    },
+    {
+      "id": 2,
+      "question": "What is the event loop in Node.js?",
+      "options": ["A loop that handles HTTP requests", "A loop that handles asynchronous operations", "A loop that manages database connections", "A loop that processes user inputs"],
+      "correctAnswer": "A loop that handles asynchronous operations"
+    },
+    {
+      "id": 3,
+      "question": "What is npm?",
+      "options": ["A package manager for Node.js", "A programming language", "A web server framework", "A database"],
+      "correctAnswer": "A package manager for Node.js"
+    },
+    {
+      "id": 4,
+      "question": "What is Express.js?",
+      "options": ["A runtime environment", "A programming language", "A database", "A web server framework"],
+      "correctAnswer": "A web server framework"
+    },
+    {
+      "id": 5,
+      "question": "What is the purpose of the package.json file in a Node.js project?",
+      "options": ["To store the project's source code", "To manage project dependencies", "To define the project's routes", "To store the project's configuration settings"],
+      "correctAnswer": "To manage project dependencies"
+    },
+    {
+      "id": 6,
+      "question": "What is the difference between require and import in Node.js?",
+      "options": ["require is used for CommonJS modules, while import is used for ES modules", "require is used for ES modules, while import is used for CommonJS modules", "require and import are interchangeable and can be used interchangeably", "require and import are both used for importing modules in Node.js"],
+      "correctAnswer": "require is used for CommonJS modules, while import is used for ES modules"
+    },
+    {
+      "id": 7,
+      "question": "What is the purpose of the global object in Node.js?",
+      "options": ["To provide access to global variables and functions", "To manage the event loop", "To handle HTTP requests", "To manage database connections"],
+      "correctAnswer": "To provide access to global variables and functions"
+    },
+    {
+      "id": 8,
+      "question": "What is the role of the process object in Node.js?",
+      "options": ["To provide information about the current Node.js process", "To handle HTTP requests", "To manage database connections", "To manage the event loop"],
+      "correctAnswer": "To provide information about the current Node.js process"
+    },
+    {
+      "id": 9,
+      "question": "What is the purpose of the fs module in Node.js?",
+      "options": ["To interact with the file system", "To handle HTTP requests", "To manage database connections", "To manage the event loop"],
+      "correctAnswer": "To interact with the file system"
+    },
+    {
+      "id": 10,
+      "question": "What is the purpose of the path module in Node.js?",
+      "options": ["To manipulate file paths", "To handle HTTP requests", "To manage database connections", "To manage the event loop"],
+      "correctAnswer": "To manipulate file paths"
+    }
+
+    
+  ]
+  
